@@ -228,8 +228,6 @@ Updating ff73da7..80358a4
 Fast-forward
  README.md | 7 ++++---
  1 file changed, 4 insertions(+), 3 deletions(-)
-
-EP@E-NEWMAN-PC MINGW64 ~/Documents/GitHub/merge-conflict-manual (our-awesome-feature)
 ```
 
 ### Заключение
