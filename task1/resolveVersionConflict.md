@@ -209,7 +209,7 @@ Our awesome feature to resolve merge conflicts includes...
 
 <img src="images/final_readme.png" alt="README.md в ветке our-awesome-feature после закрытия пулл-реквеста" width="900px">
 
-7. В локальном репозитории не забудьте переключиться на целевую ветку и синхронизировать изменения с удаленным репозиторием:
+8. В локальном репозитории не забудьте переключиться на целевую ветку и синхронизировать изменения с удаленным репозиторием:
 
 ```bash
 EP@E-NEWMAN-PC MINGW64 ~/Documents/GitHub/merge-conflict-manual (merge-conflict-main-content)
